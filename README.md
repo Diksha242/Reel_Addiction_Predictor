@@ -28,4 +28,10 @@ Machine Learning: scikit-learn (or specify your model)
 Data Handling: pandas, numpy
 Model Storage: joblib
 
+## 🌐 Live Demo
+
+Try the **Reel Addiction Predictor** online:
+
+[Open the app in your browser](https://reeladdictionpredictor.streamlit.app/)
+
 📂 Project Structure

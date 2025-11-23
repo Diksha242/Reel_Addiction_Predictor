@@ -20,4 +20,12 @@ Built using Machine Learning (SVM) and deployed with a modern animated Streamlit
 ✔ Smooth transitions
 ✔ Mobile-friendly layout
 
+🛠 Technology Stack
+
+Programming Language: Python
+Web Framework: Streamlit
+Machine Learning: scikit-learn (or specify your model)
+Data Handling: pandas, numpy
+Model Storage: joblib
+
 📂 Project Structure
